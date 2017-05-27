@@ -9,5 +9,9 @@
             BackgroundColor="Fuchsia"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
+        <Label Text="Welcome to Xamarin Forms!" 
+            BackgroundColor="Fuchsia"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
     </Grid>
 </ContentPage>
