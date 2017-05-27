@@ -13,5 +13,6 @@
             BackgroundColor="Fuchsia"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
+        <Entry />
     </StackLayout>
 </ContentPage>
