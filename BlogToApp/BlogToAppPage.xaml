@@ -4,7 +4,7 @@
     xmlns:local="clr-namespace:BlogToApp" 
     BackgroundColor="Gray"
     x:Class="BlogToApp.BlogToAppPage">
-    <Grid>
+    <StackLayout>
     	<Label Text="Welcome to Xamarin Forms!" 
             BackgroundColor="Fuchsia"
             VerticalOptions="Center" 
@@ -13,5 +13,5 @@
             BackgroundColor="Fuchsia"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
-    </Grid>
+    </StackLayout>
 </ContentPage>
